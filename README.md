@@ -49,7 +49,7 @@ User Browser
     │
     ▼
 React Frontend (Vite)
-    ├── AIChat.jsx      ──► Google Gemini API (gemini-1.5-flash)
+    ├── AIChat.jsx      ──► Google Gemini API (gemini-2.5-flash)
     ├── Quiz.jsx        ──► Static quiz data (quizData.js)
     ├── MythBuster.jsx  ──► Static myth data (mythData.js)
     ├── Timeline.jsx    ──► Election timeline data (timelineData.js)
@@ -95,7 +95,7 @@ votewise-election-assistant/
 ## 🔥 Key Features
 
 ### 🤖 AI Chat Assistant
-- Powered by **Google Gemini (gemini-1.5-flash)**
+- Powered by **Google Gemini (gemini-2.5-flash)**
 - Understands natural language questions
 - Keeps conversation context
 - Gives clear, simple answers
